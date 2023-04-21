@@ -1,7 +1,7 @@
 license_keys = [
-    {'key': 'ABC123', 'status': 'unused'},
-    {'key': 'DEF456', 'status': 'used'},
-    {'key': 'GHI789', 'status': 'unused'},
-    {'key': 'JKL012', 'status': 'unused'},
-    {'key': 'MNO345', 'status': 'used'}
+    {'key': 'AAA', 'status': 'unused'},
+    {'key': 'CCC', 'status': 'used'},
+    {'key': 'BBB', 'status': 'unused'},
+    {'key': 'DDD', 'status': 'unused'},
+    {'key': 'EEE', 'status': 'used'}
 ]

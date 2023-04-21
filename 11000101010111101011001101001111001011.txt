@@ -1,3 +1,7 @@
-A01100110110110.ID
-A11001100101011.ID
-A00011010111011.ID
+license_keys = [
+    {'key': 'ABC123', 'status': 'unused'},
+    {'key': 'DEF456', 'status': 'used'},
+    {'key': 'GHI789', 'status': 'unused'},
+    {'key': 'JKL012', 'status': 'unused'},
+    {'key': 'MNO345', 'status': 'used'}
+]

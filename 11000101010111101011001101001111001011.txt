@@ -1,4 +1,4 @@
-license_dict = [
+Valid_License = [
     {'key': 'AAA', 'status': 'unused'},
     {'key': 'CCC', 'status': 'used'},
     {'key': 'BBB', 'status': 'unused'},

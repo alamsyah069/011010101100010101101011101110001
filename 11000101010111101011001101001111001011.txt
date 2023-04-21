@@ -1,7 +1,1 @@
-Valid_License = [
-    {'key': 'AAA', 'status': 'unused'},
-    {'key': 'CCC', 'status': 'used'},
-    {'key': 'BBB', 'status': 'unused'},
-    {'key': 'DDD', 'status': 'unused'},
-    {'key': 'EEE', 'status': 'used'}
-]
+[  {"key": "AAA", "status": "unused"},  {"key": "CCC", "status": "used"},  {"key": "BBB", "status": "unused"},  {"key": "DDD", "status": "unused"},  {"key": "EEE", "status": "used"}]

@@ -1,5 +1,3 @@
-[  {"key": "AAA", "status": "unused", "name": "Abdul"},
-   {"key": "A01101001110101101101.ID", "status": "unused", "name": "Diki Firmansyah"},
-   {"key": "A11001100010101001110.ID", "status": "used", "name": "Asep"},
-   {"key": "DDD", "status": "unused", "name": "Udin"}
+[  
+   {"key": "A11001100010101001110.ID", "status": "used", "name": "Asep"}
 ]

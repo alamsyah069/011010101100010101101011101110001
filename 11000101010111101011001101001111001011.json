@@ -1,5 +1,6 @@
 [  
    {"key": "A11001100010101001110.ID", "status": "unused", "name": "Asep"},
    {"key": "A10010111001010100110.ID", "status": "unused", "name": "ALAMSYAH"},
-   {"key": "A100101TRIAL110010110.ID", "status": "unused", "name": "TRIAL LICENSE"}
+   {"key": "A100101TRIAL110010110.ID", "status": "unused", "name": "TRIAL LICENSE"},
+   {"key": "asdasd", "status": "used", "name": "USED TEST"}
 ]

@@ -2,6 +2,6 @@
    {"key": "A11001100010101001110.ID", "status": "unused", "name": "Asep"},
    {"key": "A10010111001010100110.ID", "status": "unused", "name": "ALAMSYAH"},
    {"key": "A11010110101010111001.ID", "status": "used", "name": "Paris Francisco"},
-   {"key": "A10010101110101111010.ID", "status": "unused", "name": "Diki"}
+   {"key": "A10010101110101111010.ID", "status": "used", "name": "Diki"}
    
 ]

@@ -1,7 +1,7 @@
 {
-"space_name" : "1001010111101010011010",
-"endpoint_url" : "https://1001010111101010011010.nyc3.digitaloceanspaces.com",
-"aws_access_key_id" : "DO00MHKEUYZ2KPN4JBMT",
-"aws_secret_access_key" : "3LvSt0vLdehce0ZmeDLejd9+FDM+Md74Pvt7hBqemm0"
-
+"region" : "sgp1",
+"space_name" : "110101100001011110100010101111010101",
+"endpoint_url" : "https://110101100001011110100010101111010101.sgp1.digitaloceanspaces.com",
+"aws_access_key_id" : "DO009WV49TVVP2T89XRJ",
+"aws_secret_access_key" : "1Vkn9PqlQMFaKTEIPSvFXzpoSDObjoxi1l6L+7s4/fg"
 }

@@ -3,6 +3,7 @@
    {"key": "A10010111001010100110.ID", "status": "unused", "name": "ALAMSYAH"},
    {"key": "A11010110101010111001.ID", "status": "used", "name": "Paris Francisco"},
    {"key": "A10010101110101111010.ID", "status": "used", "name": "Diki"},
-   {"key": "A11101011101111110100.ID", "status": "unused", "name": "Trial License"}
+   {"key": "A11101011101111110100.ID", "status": "unused", "name": "Trial License"},
+   {"key": "A00110101101101110000.ID", "status": "unused", "name": "Rian Hidayat"}
    
 ]

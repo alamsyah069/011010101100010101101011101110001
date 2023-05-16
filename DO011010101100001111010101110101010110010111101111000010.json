@@ -1,7 +1,7 @@
 {
 "region" : "sgp1",
-"space_name" : "110101100001011110100010101111010101",
-"endpoint_url" : "https://110101100001011110100010101111010101.sgp1.digitaloceanspaces.com",
-"aws_access_key_id" : "DO009WV49TVVP2T89XRJ",
-"aws_secret_access_key" : "1Vkn9PqlQMFaKTEIPSvFXzpoSDObjoxi1l6L+7s4/fg"
+"space_name" : "1001010101111010101001010111",
+"endpoint_url" : "https://1001010101111010101001010111.sgp1.digitaloceanspaces.com",
+"aws_access_key_id" : "DO00YMDRBHEJXVMD6YQ2",
+"aws_secret_access_key" : "cX1DhZJ+omrrKJZT4e2pVZqamnM4/kdBbafL6mLMhgU"
 }

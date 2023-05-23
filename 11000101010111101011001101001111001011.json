@@ -4,7 +4,7 @@
    {"key": "A11010110101010111001.ID", "status": "used", "name": "Paris Francisco"},
    {"key": "A00100111001101110010.ID", "status": "used", "name": "Rian Hidayat"},
    {"key": "A00111101010010101011.ID", "status": "used", "name": "Diki Firmansyah"},
-   {"key": "A11001010111010110011.ID", "status": "used", "name": "Elena Sundari"},
+   {"key": "A11001010111010110011.ID", "status": "unused", "name": "Elena Sundari"},
    {"key": "A00110101010001110100.ID", "status": "unused", "name": "Roy Tytyd Jordy"}
    
 ]
